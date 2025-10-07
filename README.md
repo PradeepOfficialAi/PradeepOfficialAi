@@ -59,14 +59,14 @@ I believe technology should **simplify** business, not complicate it — and eve
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PradeepOfficialAi&label=Profile%20Views&color=ff4d4d&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/PradeepOfficialAi?style=for-the-badge&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=YouTube%20Subscribers&color=red" alt="YouTube Subscribers"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCkbr9ZGQwc4k6UWshwhBGeQ?style=for-the-badge&label=YouTube%20Subscribers&color=red" alt="YouTube Subscribers"/>
 </p>
 
 ---
 
 ### 🎥 Watch My YouTube
 <p align="center">
-  <a href="[YOUR_YOUTUBE_CHANNEL_LINK](https://www.youtube.com/channel/UCkbr9ZGQwc4k6UWshwhBGeQ)" target="_blank">
+  <a href="https://www.youtube.com/@PradeepSusairaj" target="_blank">
     <img src="https://img.shields.io/badge/▶️%20Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube"/>
   </a>
 </p>
@@ -77,10 +77,9 @@ I believe technology should **simplify** business, not complicate it — and eve
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_YOUTUBE_CHANNEL_LINK"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pradeep-susairaj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:pradeep.official.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@PradeepSusairaj"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
