@@ -1,6 +1,6 @@
 <!-- Banner / Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/88648255?v=4" width="180" height="180" style="border-radius:50%;" alt="Pradeep Official AI"/>
+  <img src="https://github.com/PradeepOfficialAi/Profiles/blob/main/group%20photo.jpg" width="2560" height="1440" style="border-radius:50%;" alt="Pradeep Official AI"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff4d4d;">Pradeep</span></h1>
