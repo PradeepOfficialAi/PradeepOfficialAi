@@ -35,18 +35,23 @@ I believe technology should **simplify** business, not complicate it — and eve
 
 ### 🎓 Certifications
 <p align="center">
-  <img src="https://www.linkedin.com/feed/update/urn:li:activity:7353032810783256577?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7353032810783256577%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwkYpz7r4QkOfjDbxozKSXA%3D%3D" width="220" alt="Odoo Certification"/>
+  <img src="https://github.com/PradeepOfficialAi/Profiles/blob/main/Odoo%2017%20Certification.png" width="220" alt="Odoo Certification"/>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
+
 | Project | Description |
-|----------|--------------|
-| **Odoo SaaS Automation Suite** | Unified module connecting CRM, Rental, and Billing with real-time analytics. |
-| **WhatsApp-Odoo Bridge** | Personal WhatsApp API integration for customer engagement. |
-| **Playwright Automation Framework** | AI-driven test generation system for RentAsst ERP. |
-| *(Add more…)* |  |
+|---|---|
+| **Database Auto-Backup (auto_backup)** | Automates backups locally or via SFTP/FTP, supports retention rules, sends email alerts, offers “Test Connection”. |
+| **Advance Dashboard** | *Custom dashboards and visual analytics across Odoo modules.* |
+| **Tally-Odoo Sync / Connector** | *Syncs financial & accounting data between Tally and Odoo.* |
+| **Token Management** | *Manage API tokens, OAuth flows, and control access via token life cycles.* |
+| **Access Management Pro** | Hide/show menus, fields, and actions per user role; granular UI control and field-level permissions. |
+| **Odoo Voice-to-Text CRM** | *Convert voice notes into CRM entries or attachments.* |
+| **WhatsApp Integration PD** | *Bridge WhatsApp with Odoo for chats, triggers, notifications.* |
+
 
 ---
 
