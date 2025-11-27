@@ -59,13 +59,13 @@ I believe technology should **simplify** business, not complicate it — and eve
 
 
 ---
-
 ### 📈 Metrics & Impact
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PradeepOfficialAi&label=Profile%20Views&color=ff4d4d&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/PradeepOfficialAi?style=for-the-badge&color=blue" alt="followers"/>
   <img src="https://img.shields.io/youtube/channel/subscribers/UCkbr9ZGQwc4k6UWshwhBGeQ?style=for-the-badge&label=YouTube%20Subscribers&color=red" alt="YouTube Subscribers"/>
 </p>
+
 
 ---
 
@@ -82,10 +82,19 @@ I believe technology should **simplify** business, not complicate it — and eve
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-susairaj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:pradeep.official.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@PradeepSusairaj"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pradeep-susairaj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:pradeep.official.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@PradeepSusairaj" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
