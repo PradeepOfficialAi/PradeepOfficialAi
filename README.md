@@ -5,6 +5,11 @@
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff4d4d;">Pradeep</span></h1>
 <h3 align="center">Global Thought Leader in Odoo | Product Strategist | SaaS Innovator | Tech Creator</h3>
+<h3 align="center">
+  📞 <a href="tel:+916374736552">+91 63747 36552</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:pradeep.official.ai@gmail.com">pradeep.official.ai@gmail.com</a> &nbsp;|&nbsp;
+  💬 <a href="https://wa.me/916374736552" target="_blank">WhatsApp +91 6374736552</a>
+</h3>
 
 ---
 
